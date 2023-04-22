@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"id":{"$numberInt":"1"}},"name":"__primary_key__","unique":true},{"v":{"$numberInt":"2"},"key":{"area_id":{"$numberInt":"1"}},"name":"department_tbl_area_id_1e355b11"}],"uuid":"f5d563d93f954498ae97947dd4617c17","collectionName":"department_tbl","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"id":{"$numberInt":"1"}},"name":"__primary_key__","unique":true},{"v":{"$numberInt":"2"},"key":{"sub_area_id":{"$numberInt":"1"}},"name":"devices_tbl_sub_area_id_ca8d97f1"}],"uuid":"8891ad841789465bb3a0b3eefe7c6e7a","collectionName":"devices_tbl","type":"collection"}
